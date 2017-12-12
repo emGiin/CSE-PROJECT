@@ -2,7 +2,7 @@
 
 This is a mind map of the way I see the diffrent parts of web developpement, this is not by any means complete, my only goal through this map is to simplify the scary jargon used by web developpers.
 
-**[MIND MAP](https://app.mindmup.com/map/_free/2017/12/a2980730dea211e7a35e05b63996eeb2)**
+[MIND MAP](https://app.mindmup.com/map/_free/2017/12/a2980730dea211e7a35e05b63996eeb2)
 
 # Web development exercises
 
@@ -16,7 +16,7 @@ You will be introduced to basic HTML and CSS through the following exercice.
 
 **GOAL** : Make a tribute page for a known historical person of your liking.
 
-**[TRIBUTE PAGE EXAMPLE OF FREECODECAMP.COM](https://codepen.io/freeCodeCamp/full/NNvBQW)**
+[TRIBUTE PAGE EXAMPLE OF FREECODECAMP.COM](https://codepen.io/freeCodeCamp/full/NNvBQW)
 
 ### Level 2 : Beatiful "New Tab"
 
@@ -24,7 +24,7 @@ You will be introduced to basic CSS positioning through the following exercice.
 
 **GOAL** : Make a beautiful new tab page for your browser, one that is similar of that of Momentum Chrome extension
 
-**[IMAGE OF MOMENTUM NEW TAB](https://imgur.com/a/NUjiv)**
+[IMAGE OF MOMENTUM NEW TAB](https://imgur.com/a/NUjiv)
 
 PS : To get a better feel of the page please go ahead and install [Momentum extension](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
 
@@ -34,7 +34,7 @@ In this exercice you will have to combine various HTML and CSS tricks to impleme
 
 **GOAL** : Make a template of a general pupose landing page.
 
-**[EXAMPLE OF A GENERAL PURPOSE WEBSITE FROM THEMEFOREST](https://codepen.io/freeCodeCamp/full/NNvBQW)**
+[EXAMPLE OF A GENERAL PURPOSE WEBSITE FROM THEMEFOREST](https://codepen.io/freeCodeCamp/full/NNvBQW)
 
 PS : You don't have to implement all the features of the example.
 
@@ -44,7 +44,7 @@ This is an advance CSS exercice, if you are confident of your CSS skills I reall
 
 **GOAL** : Remake one of the various css themes available on CSS Zen Garden.
 
-**[CSS ZEN GARDEN WEBSITE](http://www.csszengarden.com/)**
+[CSS ZEN GARDEN WEBSITE](http://www.csszengarden.com/)
 
 # READ MORE
 
