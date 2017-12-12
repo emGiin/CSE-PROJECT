@@ -48,7 +48,13 @@ This is an advance CSS exercice, if you are confident of your CSS skills I reall
 
 # READ MORE
 
-* Github statistics of 2017 : https://octoverse.github.com/
-* Web developer roadmap 2017 : https://github.com/kamranahmedse/developer-roadmap
-* SPA vs MPA : https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58
-* SQL vs NoSQL : https://www.sitepoint.com/sql-vs-nosql-differences/
+* [Github statistics of 2017 ](https://octoverse.github.com/)
+* [Web developer roadmap 2017 ](https://github.com/kamranahmedse/developer-roadmap)
+* [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
+* [How CSS Selectors Work](https://css-tricks.com/how-css-selectors-work/)
+* [CSS Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+* [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+* [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [CSS illustrated and animated properties](http://cssreference.io/)
+* [SPA vs MPA ](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58)
+* [SQL vs NoSQL ](https://www.sitepoint.com/sql-vs-nosql-differences/)
