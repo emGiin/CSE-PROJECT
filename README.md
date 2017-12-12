@@ -48,6 +48,8 @@ This is an advance CSS exercice, if you are confident of your CSS skills I reall
 
 # READ MORE
 
+* [FreeCodeCamp : Learn to code for free](https://www.freecodecamp.org/)
+* [Mozila Developers Network web tutorials](https://developer.mozilla.org/en-US/docs/Web)
 * [Github statistics of 2017 ](https://octoverse.github.com/)
 * [Web developer roadmap 2017 ](https://github.com/kamranahmedse/developer-roadmap)
 * [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)

@@ -1,0 +1,45 @@
+h1 {
+  color: cornflowerblue;
+}
+
+.paragraph,
+li {
+  color: #444;
+  font-family: 'DejaVu Sans';
+  font-size: 18px;
+}
+
+#special {
+  background-color: brown;
+  color: wheat;
+}
+
+#special:hover {
+  background: wheat;
+  color: brown;
+}
+
+#container {
+  idth: 80%;
+  margin: 0 auto;
+}
+
+
+/* li:hover {
+  background-color: brown;
+  color: wheat;
+} */
+
+#outer {
+  width: 50%;
+  height: 10%;
+  background-color: brown;
+  border: cornflowerblue solid 5px;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+#inner {
+  width: fit-content;
+  background-color: wheat;
+}
