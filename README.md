@@ -45,7 +45,7 @@ In this exercice you will have to combine various HTML and CSS tricks to impleme
 
 **GOAL** : Make a template of a general pupose landing page.
 
-[EXAMPLE OF A GENERAL PURPOSE WEBSITE FROM THEMEFOREST](https://codepen.io/freeCodeCamp/full/NNvBQW)
+[EXAMPLE OF A GENERAL PURPOSE WEBSITE FROM THEMEFOREST](http://preview.themeforest.net/item/whiteble-minimal-portfolio-agency-shop-creative-html-template/full_screen_preview/19938762)
 
 PS : You don't have to implement all the features of the example.
 
