@@ -10,6 +10,17 @@ This is a mind map of the way I see the diffrent parts of web developpement, thi
 
 To each exercice on the following list its level of difficulty, please implement a minimum of two chosen according to your skill level.
 
+### Before you start
+
+You will need a code editor, use any editor you feel confortable with, however I recommend [Visual Studio Code](https://code.visualstudio.com/).
+
+You might also want to use [Git](https://git-scm.com/),I strongly recommend you do so.
+
+If you want a step by step tutorial you can find these on our local server:
+
+* **[The web developer bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)** @ 192.168.0.100/projet/web.zip
+* **[Git essential training](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html)** @ 192.168.0.100/projet/web.zip
+
 ### Level 1 : A tribute page
 
 You will be introduced to basic HTML and CSS through the following exercice.
