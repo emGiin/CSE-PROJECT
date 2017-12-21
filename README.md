@@ -19,7 +19,7 @@ You might also want to use [Git](https://git-scm.com/),I strongly recommend you 
 If you want a step by step tutorial you can find these on our local server:
 
 * **[The web developer bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)** @ 192.168.0.100/projet/web.zip
-* **[Git essential training](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html)** @ 192.168.0.100/projet/web.zip
+* **[Git essential training](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html)** @ 192.168.0.100/projet/git.zip
 
 ### Level 1 : A tribute page
 
